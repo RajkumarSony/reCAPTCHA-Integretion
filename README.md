@@ -1,6 +1,6 @@
 # reCAPTCHA-Integretion
 
-### Generate SITE KEY & SECRATE KEY
+### -Generate SITE KEY & SECRATE KEY
 
 #### https://www.google.com/recaptcha/admin/create#createsite
 
