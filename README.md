@@ -1,13 +1,13 @@
 # reCAPTCHA-Integretion
 
-## Generate SITE KEY & SECRATE KEY
+### Generate SITE KEY & SECRATE KEY
 
-### https://www.google.com/recaptcha/admin/create#createsite
+#### https://www.google.com/recaptcha/admin/create#createsite
 
-## Client Side Integration
+### Client Side Integration
 
-### https://developers.google.com/recaptcha/docs/display
+#### https://developers.google.com/recaptcha/docs/display
 
-## Server Side Integration
+### Server Side Integration
 
-### https://developers.google.com/recaptcha/docs/verify
+#### https://developers.google.com/recaptcha/docs/verify
